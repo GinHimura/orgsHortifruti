@@ -2,7 +2,8 @@
 
 Bem-vindo(a) ao projeto "Cesta de Bananas da Bananinha Enterprise". Este é um aplicativo desenvolvido em React Native que permite aos usuários visualizarem e comprarem uma cesta de bananas oferecida pela empresa Bananinha Enterprise.
 
-![Aplicativo](assets/app.gif)
+<img src="assets/app.gif" alt="Aplicativo" width="200px">
+
 
 ## Requisitos
 
